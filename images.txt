@@ -1,1 +1,1 @@
-weaveworks/scope:1.13.2
+hub.docker.com/snowflakedb/database-connector-agent
