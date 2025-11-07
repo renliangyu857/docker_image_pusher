@@ -1,2 +1,1 @@
-hub.docker.com/snowflakedb/database-connector-agent
-
+snowflakedb/database-connector-agent
